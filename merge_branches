@@ -1,0 +1,10 @@
+git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+(base) josh@JOSH-Macbook-Pro mcino-Introduction-to-Git-and-GitHub % git merge bug-fix-typo
+Updating 4ec7201..880c809
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+(base) josh@JOSH-Macbook-Pro mcino-Introduction-to-Git-and-GitHub % 
+

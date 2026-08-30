@@ -1,0 +1,10 @@
+git branch -vv
+bug-fix-typo 880c809 [origin/bug-fix-typo] Fix typo
+
+* main         880c809 [origin/main] Fix typo
+
+git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
